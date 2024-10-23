@@ -1,4 +1,4 @@
- # vpn0-ke-yingCustom; Personal VPN  Server and Client with Dynamic IP Shifting
+ # Personal VPN  Server and Client with Dynamic IP Shifting
 
 This project provides a fully implemented Python-based VPN solution using SSL/TLS encryption, dynamic IP shifting, and TUN interfaces for routing traffic. The VPN server and client scripts are tightly integrated with robust logging, client certificate authentication, and dynamic IP assignment. This VPN solution is designed for personal use, supporting multiple spoofed clients and dynamic IP management.
 
